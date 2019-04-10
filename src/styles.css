@@ -1,0 +1,25 @@
+body {
+  background-color: oldlace;
+}
+
+li {
+  display: inline;
+
+}
+
+footer {
+  position:fixed;
+  text-align: center;
+  bottom:0;
+  width:100%;
+}
+.scroll {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  display: none;
+}
+html {
+  scroll-behavior: smooth;
+}
+
